@@ -1,6 +1,6 @@
 #!/system/xbin/bash
 clear
-git clone https://github.com/classy-fakecall.git
+git clone https://github.com/X-haya97classy-fakecall.git
 cd ./classy-fakecall
 chmod +x ./install
 apt install ./fakecall1.1_all.deb
