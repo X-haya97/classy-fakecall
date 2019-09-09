@@ -75,7 +75,7 @@ echo "Xtapo04"
 sleep 1
 echo "\033[30;1m tunggu 7 detik"
 sleep 7
-python classy-fakecall.py
+sh classy-fakecall.sh
 fi
 
 
