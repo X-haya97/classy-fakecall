@@ -6,7 +6,7 @@ chmod +x ./install
 apt install ./fakecall1.1_all.deb
 clear
 
-toilet -f slant --gay " Classy Bastard "
+toilet -f slant --gay " classy-fakecall "
 sleep 1
 echo "\033[33;1m Tools FakeCall"
 sleep 1
